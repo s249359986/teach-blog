@@ -126,9 +126,10 @@
  - [settimeout，setinterval 互相实现](https://zhuanlan.zhihu.com/p/73204517)
  - Promise.all 实现
 
-每个关键词都知道官方定义，核心原理，使用场景，未来趋势，你就是下一个技术大牛
 
-内容持续细化，答案链接后期附上
+## 周边
+
+### [nginx](https://github.com/s249359986/teach-blog/blob/main/2021%E5%B9%B48%E6%9C%887%E6%97%A5-nginx.md)
 
 
 
