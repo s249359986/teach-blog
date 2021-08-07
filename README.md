@@ -1,4 +1,4 @@
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/19020f4ee9b04888b7623f636435a140~tplv-k3u1fbpfcp-zoom-1.image)
+# 【必知必会】最新前端面试知识盘点
 
 ### js
 - 内置类型
